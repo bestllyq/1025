@@ -1,0 +1,6 @@
+﻿{
+  "sitemapRules": [{
+    "action": "allow",
+    "page": "*"
+  }]
+}
