@@ -1,0 +1,6 @@
+﻿/* 页面样式 - web-view 全屏 */
+page {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}

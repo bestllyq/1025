@@ -1,0 +1,2 @@
+﻿<!-- web-view 嵌入 1024 游戏 -->
+<web-view src="{{gameUrl}}" bindmessage="onMessage"></web-view>
