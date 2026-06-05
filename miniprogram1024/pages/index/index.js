@@ -2,7 +2,7 @@
 Page({
   data: {
     // 游戏在线地址（替换为你的实际部署地址）
-    gameUrl: 'https://bestllyq.github.io/1025/1024.html'
+    gameUrl: 'https://bestllyq.github.io/1025/'
   },
   onLoad() {
     console.log('1024 游戏加载中...');
